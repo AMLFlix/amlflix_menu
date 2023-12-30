@@ -1,0 +1,62 @@
+[
+  {
+    "extra": "Home",
+    "key": "Home"
+  },
+  {
+    "extra": "Live Matches",
+    "key": "Live Matches"
+  },
+  {
+    "extra": "Highlights",
+    "key": "Highlights"
+  },
+  {
+    "extra": "Tv Channels",
+    "key": "Tv Channels"
+  },
+  {
+    "extra": "Inter Tv",
+    "key": "Inter Tv"
+  },
+  {
+    "extra": "Movies",
+    "key": "Movies"
+  },
+  {
+    "extra": "Tv Series",
+    "key": "Tv Series"
+  },
+  {
+    "extra": "Favorite",
+    "key": "Favorite"
+  },
+  {
+    "extra": "J Bomb",
+    "key": "J Bomb"
+  },
+  {
+    "extra": "X Bomb",
+    "key": "X Bomb"
+  },
+  {
+    "extra": "Z Movies",
+    "key": "Z Movies"
+  },
+  {
+    "extra": "Z Series",
+    "key": "Z Series"
+  },
+  {
+    "extra": "About App",
+    "key": "About App"
+  },
+  {
+    "extra": "Player Settings",
+    "key": "Player Settings"
+  },
+  {
+    "extra": "Activation",
+    "key": "Activation"
+  }
+]
