@@ -27,11 +27,6 @@
     "extra": "Tv Series",
     "key": "Tv Series"
   },
-{
-    "extra": "FLIX18+",
-    "key": "FLIX18+"
-  },
-  
   {
     "extra": "Favorite",
     "key": "Favorite"
@@ -63,5 +58,9 @@
   {
     "extra": "Activation",
     "key": "Activation"
+  },
+  {
+    "extra": "Device",
+    "key": "Device ID"
   }
 ]
